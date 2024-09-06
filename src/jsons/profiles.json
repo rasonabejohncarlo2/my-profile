@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "10 JUNE 2003" },
+    {
+      "website": "<a target='blank' href='http://jc-resume.s3-website-us-east-1.amazonaws.com'>http://jc-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 9553-896-211" },
+    { "address": "San Isidro, Bohol, Philippines, 6345" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>rasonabejohncarlo2@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "San Isidro, Bohol, Philippines, 6345",
+    "+63 9553-896-211",
+    "<a href='mailto:someone@example.com'>rasonabejohncarlo@yahoo.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. Information Technology",
+      "year": "2021 - 2025",
+      "school": "Mater Dei College",
+      "address": "Tubigon,Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2013 - 2021",
+      "school": "MARTNSF",
+      "address": "Calape, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2006 - 2013",
+      "school": "Bentig-Calunasan Elementary School",
+      "address": "Calape, Bohol"
+    }
+  ]
+}

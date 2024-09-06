@@ -1,0 +1,169 @@
+{
+  "companies": [
+    {
+      "company": "IT Student",
+      "title": "Bachelor of Science in Information Technology",
+      "duration": "June 2021 - 2025",
+      "tasks": [
+        "Completed coursework in software development, database management, and network security.",
+        "Collaborated with peers on group projects involving full-stack web application development.",
+        "Participated in workshops and seminars on the latest IT industry trends and technologies.",
+        "Gained practical experience through lab work and hands-on projects in various programming languages."
+      ]
+    },
+    {
+      "company": "Capstone Research Project",
+      "title": "Lead Developer",
+      "duration": "January 2023 - May 2023",
+      "tasks": [
+        "Led a team of students in developing a web-based application as part of a capstone project.",
+        "Conducted research and gathered requirements to define project scope and objectives.",
+        "Designed and implemented the front-end and back-end of the application using industry-standard tools and frameworks.",
+        "Tested and deployed the application, ensuring it met the project's requirements and was fully functional."
+      ]
+    },
+    {
+      "company": "Parish Youth Ministry",
+      "title": "Volunteer IT Coordinator",
+      "duration": "June 2023 - Present",
+      "tasks": [
+        "Managed the parish's website and social media accounts, ensuring timely updates and engaging content.",
+        "Organized virtual events and online meetings using various platforms to keep the youth community connected.",
+        "Developed digital materials, including flyers and videos, to promote ministry activities.",
+        "Provided technical support during events and assisted in setting up IT infrastructure for parish functions."
+      ]
+    },
+    {
+      "company": "Outreach Program",
+      "title": "Volunteer Organizer",
+      "duration": "February 2024",
+      "tasks": [
+        "Coordinated with local organizations to identify areas in need and plan outreach activities.",
+        "Led a team of volunteers in distributing essential goods and providing basic IT training to underprivileged communities.",
+        "Organized fundraising events to support the outreach program's initiatives.",
+        "Documented the program's impact and prepared reports for stakeholders."
+      ]
+    },
+    {
+      "company": "DICT Conference",
+      "title": "Participant",
+      "duration": "March 2023",
+      "tasks": [
+        "Attended the Department of Information and Communications Technology (DICT) conference focused on the latest advancements in IT and telecommunications.",
+        "Participated in workshops and panel discussions on topics such as cybersecurity, digital transformation, and emerging technologies.",
+        "Networked with industry professionals, gaining insights and best practices to apply in academic and professional projects.",
+        "Presented a poster on the capstone research project, receiving feedback from experts in the field."
+      ]
+    },
+    {
+      "company": "DLC Band",
+      "title": "Bandmaster",
+      "duration": "June 2019 - 2021",
+      "tasks": [
+        "Directed and coordinated rehearsals, performances, and events for the band.",
+        "Selected music pieces and arranged them to suit the band’s instrumentation and skill level.",
+        "Provided mentorship and guidance to band members to improve their musical abilities.",
+        "Organized concerts and community performances, enhancing the cultural life of the institution."
+      ]
+    },
+    {
+      "company": "LYDC (Local Youth Development Council)",
+      "title": "President",
+      "duration": "August 2020 - Present",
+      "tasks": [
+        "Led the council in planning and implementing youth programs and initiatives at the local level.",
+        "Collaborated with government agencies, NGOs, and other stakeholders to address youth-related issues.",
+        "Oversaw the development of policies and programs that empower the youth in the community.",
+        "Facilitated workshops, forums, and activities that promote leadership and civic engagement among youth."
+      ]
+    },
+    {
+      "company": "SAMAFIL (Samahan ng mga Mag-aaral sa Filipino)",
+      "title": "President",
+      "duration": "July 2018 - 2022",
+      "tasks": [
+        "Organized cultural and educational events promoting the Filipino language and heritage.",
+        "Led the organization in advocating for the inclusion of Filipino subjects and activities in the curriculum.",
+        "Coordinated with academic departments to develop programs that enhance students’ understanding of Filipino culture.",
+        "Managed the organization's activities, including seminars, competitions, and outreach programs."
+      ]
+    },
+    {
+      "company": "Chapel Youth Ministry",
+      "title": "Youth Coordinator",
+      "duration": "June 2021 - Present",
+      "tasks": [
+        "Coordinated youth activities and programs within the chapel community.",
+        "Organized spiritual retreats, Bible studies, and prayer meetings for the youth.",
+        "Mentored young members, providing guidance and support in their spiritual growth.",
+        "Collaborated with the parish council to integrate youth initiatives into the broader church agenda."
+      ]
+    },
+    {
+      "company": "Sangguniang Kabataan (SK)",
+      "title": "Chairperson",
+      "duration": "July 2022 - Present",
+      "tasks": [
+        "Led the Sangguniang Kabataan in implementing youth development programs and activities within the community.",
+        "Managed the allocation of budget and resources for various youth-related projects.",
+        "Collaborated with local government units to address issues affecting the youth, including education, employment, and health.",
+        "Organized and facilitated community events, such as sports tournaments, leadership training, and environmental campaigns."
+      ]
+    },
+    {
+      "company": "DLC Band",
+      "title": "Trainer",
+      "duration": "June 2019 - Present",
+      "tasks": [
+        "Provided musical training and instruction to band members, focusing on improving technical skills and performance quality.",
+        "Developed and implemented training programs tailored to the needs and abilities of individual members.",
+        "Assisted the Bandmaster in organizing and directing rehearsals and performances.",
+        "Played a key role in preparing the band for competitions and public performances."
+      ]
+    },
+    {
+      "company": "Youth Lead Philippines",
+      "title": "Member",
+      "duration": "January 2023 - Present",
+      "tasks": [
+        "Participated in national youth leadership programs aimed at developing leadership skills and promoting civic engagement.",
+        "Collaborated with other young leaders on projects that address social issues and promote positive change in communities.",
+        "Attended workshops, seminars, and forums on leadership, social responsibility, and community development.",
+        "Contributed to the planning and execution of youth-led initiatives and campaigns at the national level."
+      ]
+    },
+    {
+      "company": "Congressional Meet",
+      "title": "Event Coordinator",
+      "duration": "2018",
+      "tasks": [
+        "Coordinated the logistics and planning of a Congressional Meet event, ensuring smooth execution.",
+        "Worked closely with congressional representatives and stakeholders to manage event schedules and requirements.",
+        "Organized and managed a team of volunteers to assist with various event tasks, including registration, security, and hospitality.",
+        "Ensured all event aspects were executed according to the plan, handling any issues that arose during the event."
+      ]
+    },
+    {
+      "company": "IT Club",
+      "title": "Vice Chairman",
+      "duration": "2023",
+      "tasks": [
+        "Assisted the Chairman in leading the IT Club and organizing club activities.",
+        "Coordinated with members to plan and execute tech workshops, seminars, and competitions.",
+        "Supported the development of initiatives to promote technology education and engagement among students.",
+        "Worked with the club's leadership team to address member concerns and improve club operations."
+      ]
+    },
+    {
+      "company": "Saint Isidore the Farmer Parish",
+      "title": "Parish Youth Ministry Assistant Coordinator",
+      "duration": "September 2022 - Present",
+      "tasks": [
+        "Assisted the Parish Youth Ministry Coordinator in planning and implementing youth programs and events.",
+        "Supported the coordination of activities aimed at engaging and nurturing the youth community.",
+        "Helped manage communication between the youth ministry and other parish groups.",
+        "Contributed to the development of new initiatives and outreach efforts to enhance youth participation and growth."
+      ]
+    }
+  ]
+}

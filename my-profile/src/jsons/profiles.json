@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "22 Feb 1985" },
+    {
+      "website": "<a target='blank' href='http://ian-claros-resume.s3-website-us-east-1.amazonaws.com'>http://ian-claros-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 906-145-6801" },
+    { "address": "Pinayagan Norte, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 39 },
+    { "degree": "B.S. Computer Engineering" },
+    { "email": "<a href='mailto:someone@example.com'>clarosian@yahoo.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Pinayagan Norte, Tubigon, Bohol, Philippines",
+    "+63 906-145-6801",
+    "<a href='mailto:someone@example.com'>clarosian@yahoo.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. COMPUTER ENGINEERING",
+      "year": "2002 - 2007",
+      "school": "Cebu Institute of Technology University",
+      "address": "Natalio B. Bacalso Ave, Cebu City"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "1999 - 2002",
+      "school": "Holy Cross Academy",
+      "address": "Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "1993 - 1999",
+      "school": "Pinayagan Norte Elementary School",
+      "address": "Pinayagan Norte, Tubigon, Bohol"
+    }
+  ]
+}
